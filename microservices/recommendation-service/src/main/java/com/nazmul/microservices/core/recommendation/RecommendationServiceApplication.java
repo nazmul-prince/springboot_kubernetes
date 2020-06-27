@@ -1,13 +1,13 @@
-package se.magnus.microservices.composite.product;
+package com.nazmul.microservices.core.recommendation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProductCompositeServiceApplication {
+public class RecommendationServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProductCompositeServiceApplication.class, args);
+		SpringApplication.run(RecommendationServiceApplication.class, args);
 	}
 
 }

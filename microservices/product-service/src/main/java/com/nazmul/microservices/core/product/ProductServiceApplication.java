@@ -1,4 +1,4 @@
-package com.nazmul.microservices.productservice;
+package com.nazmul.microservices.core.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
